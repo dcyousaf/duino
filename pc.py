@@ -430,7 +430,7 @@ def loadConfig():
             + Fore.RESET
             + get_string("register_warning"))
 
-        username = input(
+        username = haramain4u
             Style.RESET_ALL
             + Fore.YELLOW
             + get_string("ask_username")
